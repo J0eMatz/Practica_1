@@ -1,23 +1,29 @@
 .my__header{
     background: rgb(3, 255, 129);
+    padding: 1px;
 }   
 
 .my_aside1{
     background: orange;
     margin: 5px;
+    width: 115px;
+    height: 480px;
 }
 
 .my_aside2{
     background: orange;
     margin: 5px;
     display: inline-block;
+    width: 115px;
+    height: 480px;
 }
 
 .my_main{
     background: red;
     margin: 130px;
-    margin-top: 20px;
+    margin-top: 6px;
     margin-bottom: 20px;
+    padding: 84px;
 }
 
 .my_footer{
@@ -30,4 +36,10 @@
     margin: 20px;
     padding: 10px;
     border-radius: 15px;
+}
+
+.my_article1{
+    background: #c8afaff5;
+    margin: 29px;
+    padding: 23px;
 }
