@@ -1,3 +1,33 @@
 .my__header{
-    background: green;
+    background: rgb(3, 255, 129);
 }   
+
+.my_aside1{
+    background: orange;
+    margin: 5px;
+}
+
+.my_aside2{
+    background: orange;
+    margin: 5px;
+    display: inline-block;
+}
+
+.my_main{
+    background: red;
+    margin: 130px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.my_footer{
+    background: mediumorchid;
+    margin: 10px;
+}
+
+.my_nav{
+    background: rgba(220, 231, 220, 0.743);
+    margin: 20px;
+    padding: 10px;
+    border-radius: 15px;
+}
